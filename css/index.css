@@ -6,6 +6,10 @@ body {
 a {
     color: #9a0000;
 }
+b {
+    color: rgb(210, 4, 45);
+    font-size: 30px;
+}
 p {
     color: rgb(54, 37, 0);
     margin-right: 100px;
